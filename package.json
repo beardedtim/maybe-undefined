@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "A basic way to get value or default from an object even if the chain contains undefined values",
   "main": "index.js",
-  "repository": " ",
   "author": "Timi <timiroberts@gmail.com> (https://github.com/beardedtim)",
   "license": "MIT",
   "devDependencies": {
@@ -13,5 +12,6 @@
   "scripts": {
     "test": "mocha *.spec.js",
     "test:w": "mocha *.spec.js --watch"
-  }
+  },
+  "repository": "git@github.com:beardedtim/maybe-undefined.git"
 }
